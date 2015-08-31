@@ -9,7 +9,7 @@ The Chinese University of Hong Kong
 
 **Office hour**: TBD
 
-**Time**: every Wednesday 3:30--6:15
+**Time and Venue**: Wednesday 3:30--6:15 @ AIT G02
 
 **Textbook**: Bruce Hansen (2015): [Econometrics](http://www.ssc.wisc.edu/~bhansen/econometrics/)
 
@@ -18,15 +18,16 @@ The Chinese University of Hong Kong
 
 * Lecture 1 (Sep 16): introduction and reviews
 * Lecture 2 (Sep 23): conditional expectation model
-* Lecture 3: least squares estimator I: algebra
-* Lecture 4: least squares estimator II: statistical properties
-* Lecture 5: maximum likelihood
-* Lecture 6: distributional theory of OLS
-* Lecture 7: hypothesis testing I: theory
-* Lecture 8: hypothesis testing II: application to OLS for joint test
-* Lecture 9: endogeneity and generalized method of moments
-* Lecture 10: time series I
-* Lecture 11: time series II
+* Lecture 3 (Sep 30): least squares estimator I: algebra
+* Lecture 4 (Oct 7): least squares estimator II: statistical properties
+* Lecture 5 (Oct 14): maximum likelihood
+* No class on Oct 21
+* Lecture 6 (Oct 28): distributional theory of OLS
+* Lecture 7 (Nov 4): hypothesis testing I: theory
+* Lecture 8 (Nov 11): hypothesis testing II: application to OLS for joint test
+* Lecture 9 (Nov 18): endogeneity and generalized method of moments
+* Lecture 10 (Nov 25): time series I
+* Lecture 11 (Dec 2): time series II
 * Lecture 12: time series III
 
 
