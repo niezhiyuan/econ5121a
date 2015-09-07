@@ -11,14 +11,10 @@ The Chinese University of Hong Kong
 
 **Time and Venue**: Wednesday 3:30--6:15 @ AIT G02
 
-**Textbook**: 
+**Textbooks**: 
 
 * Bruce Hansen (2015): [Econometrics](http://www.ssc.wisc.edu/~bhansen/econometrics/)
 * Fumio Hayashi (2000): [Econometrics](http://press.princeton.edu/titles/6946.html), Princeton University Press
-
-**Course Overview**
-
-This is the first course of graduate-level econometrics. We study the linear regression model in depth. We develop a solid foundation for statistical inference in finite sample, and apply the theory to empirical examples in times series. This course paves the way towards the asymptotic theory for extremum estimators---topic to be covered in [Econ5150](http://www.econ.cuhk.edu.hk/dept/course-outlines/14-15-2ndTerm/econ5150ab-14-2ndTerm.pdf).
 
 
 **Course outline** (tentative)
@@ -28,13 +24,13 @@ This is the first course of graduate-level econometrics. We study the linear reg
 * Lecture 2 (Sep 23): conditional expectation model
 * Lecture 3 (Sep 30): least squares estimator I: algebra
 * Lecture 4 (Oct 7): least squares estimator II: statistical properties
-* Lecture 5 (Oct 14): maximum likelihood
+* Lecture 5 (Oct 14): asymptotics I: theory
 * Double Ninth Festival. No class on Oct 21
-* Lecture 6 (Oct 28): distributional theory of OLS
-* Lecture 7 (Nov 4): hypothesis testing I: theory
-* Lecture 8 (Nov 11): hypothesis testing II: application to OLS for joint test
-* Lecture 9 (Nov 18): endogeneity and generalized method of moments
-* Lecture 10 (Nov 25): panel data
+* Lecture 6 (Oct 28): asymptotics II: application to OLS
+* Lecture 7 (Nov 4):  hypothesis testing I: theory
+* Lecture 8 (Nov 11): hypothesis testing II: application to OLS
+* Lecture 9 (Nov 18): endogeneity
+* Lecture 10 (Nov 25): generalized method of moments
 * Lecture 11 (Dec 2): time series I
 * Lecture 12: time series II
 
